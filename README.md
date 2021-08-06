@@ -1,0 +1,1 @@
+This is my first Odin project, I will try to make a google homepage. It took my five times to set up in github
